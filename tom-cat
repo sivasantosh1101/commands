@@ -1,0 +1,16 @@
+https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.76/bin/apache-tomcat-9.0.76.tar.gz
+tar -zxvf zip file
+amazon-linux-extras install java-openjdk11 -y
+cd into file
+updatedb
+locate context.xml
+vim context.xml
+:21dd & wq
+cd ../
+ cd bin
+manager-gui
+manager-script
+password change, manager-gui,manager-script
+./startup.sh
+
+
