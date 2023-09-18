@@ -4,6 +4,8 @@ amazon-linux-extras install java-openjdk11 -y
 cd into file
 updatedb
 locate context.xml
+or
+cd webapps/manager/META-INF
 vim context.xml
 :21dd & wq
 cd ../
