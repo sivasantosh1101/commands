@@ -7,7 +7,8 @@ locate context.xml
 or
 cd webapps/manager/META-INF
 vim context.xml
-:21dd & wq
+:21
+2dd & wq
 cd ../
  cd bin
 manager-gui
